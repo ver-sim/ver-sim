@@ -6,11 +6,11 @@
 -  **Learning :** Full-Stack 💻 in [Develhope](https://www.develhope.co/it/sign-up/)
 -  **Hobbies :** Books 📚 | Music 🎧 | Food 🍜
 
-## My Skill:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts)](https://skillicons.dev)
+### My Skill:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,postgres)](https://skillicons.dev)
 
 ## I’m currently learning
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 
 
